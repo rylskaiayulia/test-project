@@ -171,12 +171,36 @@ Accept: application/json
   "title": "Выберите магазин",
   "stores": [
     {
-      "id": 1,
+       "id": 1,
       "name": "METRO",
       "logoUrl": "https://cdn.petrushka-green.ru/logos/metro.png",
       "deliveryText": "Ближайшая доставка сегодня 21:00–23:00",
       "redirectUrl": "https://metro.ru"
-    }, { "id": 2, "name": "Ашан", "logoUrl": "https://cdn.petrushka-green.ru/logos/auchan.png", "deliveryText": "Ближайшая доставка сегодня 18:00–20:00", "redirectUrl": "https://auchan.ru" }, { "id": 3, "name": "ВкусВилл", "logoUrl": "https://cdn.petrushka-green.ru/logos/vkusvill.png", "deliveryText": "Быстрая доставка от 20 до 60 минут", "redirectUrl": "https://vkusvill.ru" }, { "id": 4, "name": "Виктория", "logoUrl": "https://cdn.petrushka-green.ru/logos/victoria.png", "deliveryText": "Ближайшая доставка сегодня 17:00–19:00", "redirectUrl": "https://victoria-group.ru" } ] }
+    },
+    {
+      "id": 2,
+      "name": "Ашан",
+      "logoUrl": "https://cdn.petrushka-green.ru/logos/auchan.png",
+      "deliveryText": "Ближайшая доставка сегодня 18:00–20:00",
+      "redirectUrl": "https://auchan.ru"
+    },
+    {
+      "id": 3,
+      "name": "ВкусВилл",
+      "logoUrl": "https://cdn.petrushka-green.ru/logos/vkusvill.png",
+      "deliveryText": "Быстрая доставка от 20 до 60 минут",
+      "redirectUrl": "https://vkusvill.ru"
+    },
+    {
+      "id": 4,
+      "name": "Виктория",
+      "logoUrl": "https://cdn.petrushka-green.ru/logos/victoria.png",
+      "deliveryText": "Ближайшая доставка сегодня 17:00–19:00",
+      "redirectUrl": "https://victoria-group.ru"
+    }
+  ]
+}
+
 ```
 
 ---
